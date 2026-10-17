@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "97ee0a5f2357649b6a7206d0",
+  "owner": "kpdzvvfm",
+  "repo": "page-934e1fb59f779fdd87f111b0",
+  "title": "喵子科学站",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "934e1fb59f779fdd87f111b0",
+      "a": "喵子科学站",
+      "b": "",
+      "entity": "喵子科学站",
+      "brand": "喵子科学站",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d252771861536a35bdcbf29318bb806586ad9b6f3b2c58385b0bfc1a3b9a4471",
+      "content": {
+        "keyword1": "喵子科学站",
+        "keyword2": "",
+        "primary_entity": "喵子科学站",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "喵子科学站。把问题摊开。席位按月。配额有数。设备计数。没有多余的话。",
+          "AI_DESCRIPTION": "喵子科学站。把问题摊开。席位按月。配额有数。设备计数。没有多余的话。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--sea: #071A2C;--sea-mid: #0C2740;--sea-card: #12324F;--amber: #E0A825;--amber-dim: #B8861A;--paper: #F2E6C4;--ink: #D9CDA8;--mute: #8F8264}\n* {box-sizing: border-box;margin: 0;padding: 0}\nhtml {}\nbody {font-family: \"PingFang SC\", \"Hiragino Sans GB\", \"Microsoft YaHei\", \"Noto Sans SC\", sans-serif;background: var(--sea);color: var(--ink);line-height: 1.75}\nmain {display: block}\n.wrap {width: min(1120px, 92%);margin: 0 auto}\n.hero {padding: 4.5rem 0 3.2rem}\n.hero-inner {max-width: 38rem}\nh1 {font-size: clamp(2rem, 5vw, 2.75rem);color: var(--amber);font-weight: 700;letter-spacing: 0.08em;margin-bottom: 2.2rem;line-height: 1.25}\n.hero p {font-size: 1.12rem;margin-bottom: 1.15rem;color: var(--paper)}\n.hero p.lead {font-size: 1.28rem;color: var(--paper)}\n.anchors {display: flex;flex-wrap: wrap;gap: 0.65rem 0.5rem;margin-top: 2.8rem;padding-top: 1.8rem;border-top: 1px solid rgba(224, 168, 37, 0.28)}\n.anchors a {display: inline-block;color: var(--amber);text-decoration: none;font-size: 0.82rem;letter-spacing: 0.16em;padding: 0.35rem 0.85rem;border: 1px solid rgba(224, 168, 37, 0.45);border-radius: 999px}\n.anchors a:hover {background: rgba(224, 168, 37, 0.12)}\nsection {padding: 1.2rem 0 2.4rem}\nh2 {font-size: 1.35rem;color: var(--amber);letter-spacing: 0.12em;margin: 1.2rem 0 1.6rem;font-weight: 650}\nh3 {font-size: 1.02rem;color: var(--paper);margin: 0 0 1rem;padding-left: 0.75rem;border-left: 3px solid var(--amber);letter-spacing: 0.06em}\n.steps {max-width: 36rem}\n.steps ol {list-style: none;counter-reset: step}\n.steps li {counter-increment: step;margin-bottom: 1.15rem;padding-left: 2.6rem;position: relative;color: var(--ink)}\n.steps li::before {content: counter(step);position: absolute;left: 0;top: 0.05rem;width: 1.7rem;height: 1.7rem;border-radius: 50%;border: 1px solid var(--amber);color: var(--amber);font-size: 0.78rem;display: flex;align-items: center;justify-content: center;letter-spacing: 0}\n.plans {display: flex;flex-direction: column;gap: 1.35rem;padding-bottom: 1rem}\n.plan {background: var(--sea-card);border-radius: 32px;padding: 1.8rem 1.7rem 1.6rem;box-shadow: 0 14px 42px rgba(0, 0, 0, 0.38);max-width: 520px}\n.plan:nth-child(1) {margin-left: 0}\n.plan:nth-child(2) {margin-left: 7%;max-width: 540px}\n.plan:nth-child(3) {margin-left: 14%;max-width: 560px}\n.plan.mark {box-shadow: 0 16px 48px rgba(224, 168, 37, 0.12), 0 14px 42px rgba(0, 0, 0, 0.38);outline: 1px solid rgba(224, 168, 37, 0.55)}\n.plan .name {font-size: 1.05rem;color: var(--paper);letter-spacing: 0.14em;margin-bottom: 0.45rem}\n.plan .price {font-size: 1.7rem;color: var(--amber);font-weight: 700;line-height: 1.2}\n.plan .year {font-size: 0.88rem;color: var(--mute);margin: 0.25rem 0 1rem}\n.plan ul {list-style: none}\n.plan li {font-size: 0.95rem;padding: 0.28rem 0;color: var(--ink)}\n.plan li::before {content: \"— \";color: var(--amber-dim)}\n.tag {display: inline-block;font-size: 0.72rem;letter-spacing: 0.18em;color: var(--sea);background: var(--amber);border-radius: 999px;padding: 0.18rem 0.7rem;margin-bottom: 0.7rem}\n.clients {max-width: 38rem}\n.clients p {margin-bottom: 0.9rem}\n.faq-group {margin-bottom: 2.4rem}\n.qa {margin-bottom: 1.15rem}\n.qa h4 {font-size: 0.98rem;color: var(--paper);font-weight: 600;margin-bottom: 0.3rem}\n.qa p {font-size: 0.92rem;color: var(--mute)}\n.foot {padding: 2.5rem 0 3.5rem;border-top: 1px solid rgba(224, 168, 37, 0.18);margin-top: 1rem}\n.foot p {font-size: 0.82rem;color: var(--mute);letter-spacing: 0.04em}\n@media (max-width: 720px) {\n.hero {padding-top: 3rem}\n.plan, .plan:nth-child(2), .plan:nth-child(3) {margin-left: 0;max-width: none}\n.anchors a {letter-spacing: 0.1em}\n}\n</style><main>\n<div class=\"wrap\">\n<header class=\"hero\">\n<div class=\"hero-inner\">\n<h1>喵子科学站</h1>\n<p class=\"lead\">实验室的灯管一直亮着。杯子放在键盘左边。清单摊开，一项一项等着被划掉。</p>\n<p>科学站不做宣言。它只把席位算清。配额按月到账。设备按台计数。你坐下，开始，用完，下月再来。</p>\n<p>夜里没有旁白。屏幕自己亮。问题自己来。桌子还在原处。</p>\n<p>这就是全部。把问题摊开。其余的，按席位走。</p>\n<nav class=\"anchors\">\n<a href=\"#seats\">席位</a>\n<a href=\"#start\">怎么开始</a>\n<a href=\"#clients\">终端</a>\n<a href=\"#faq\">问题</a>\n</nav>\n</div>\n</header>\n<section id=\"start\">\n<h2>怎么开始</h2>\n<div class=\"steps\">\n<ol>\n<li>选一个席位。按月或按年付清。</li>\n<li>登录账户。在控制台取配置与终端。</li>\n<li>按说明装好。连上即占用一台设备名额。</li>\n<li>配额按自然月重置。剩余不结转。</li>\n<li>设备超限时，新连接进不去。先断开一台。</li>\n</ol>\n</div>\n</section>\n<section id=\"seats\">\n<h2>席位</h2>\n<div class=\"plans\">\n<article class=\"plan\">\n<p class=\"name\">基础席</p>\n<p class=\"price\">¥15 / 月</p>\n<p class=\"year\">年付 ¥150</p>\n<ul>\n<li>每月 100GB 配额</li>\n<li>同时 3 台设备</li>\n<li>标准通道</li>\n<li>常规工单队列</li>\n</ul>\n</article>\n<article class=\"plan mark\">\n<p class=\"tag\">常用</p>\n<p class=\"name\">旗舰席</p>\n<p class=\"price\">¥35 / 月</p>\n<p class=\"year\">年付 ¥350</p>\n<ul>\n<li>每月 300GB 配额</li>\n<li>同时 5 台设备</li>\n<li>优先通道</li>\n<li>工单提前处理</li>\n</ul>\n</article>\n<article class=\"plan\">\n<p class=\"name\">团队席</p>\n<p class=\"price\">¥85 / 月</p>\n<p class=\"year\">年付 ¥850</p>\n<ul>\n<li>每月 1000GB 配额</li>\n<li>同时 20 台设备</li>\n<li>可谈路由规则</li>\n<li>专人对接</li>\n</ul>\n</article>\n</div>\n</section>\n<section id=\"clients\">\n<h2>终端</h2>\n<div class=\"clients\">\n<p>终端不放在公开页。登录后，在控制台按系统取安装包。</p>\n<p>装好后填入账户内给出的配置。连上即计入设备数。</p>\n<p>没有站外直链。地址以控制台当时显示为准。</p>\n</div>\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<div class=\"faq-group\">\n<h3>计费与席位</h3>\n<article class=\"qa\">\n<h4>年付怎么收？</h4>\n<p>按席位页标价一次性收取十二个月。价格以当时页面为准。</p>\n</article>\n<article class=\"qa\">\n<h4>配额何时重置？</h4>\n<p>按自然月重置。用剩的不带到下月。</p>\n</article>\n<article class=\"qa\">\n<h4>能中途换席位吗？</h4>\n<p>当前周期内按已选票走。下个周期再改。</p>\n</article>\n</div>\n<div class=\"faq-group\">\n<h3>设备与配额</h3>\n<article class=\"qa\">\n<h4>超过同时在线台数会怎样？</h4>\n<p>新的连接进不去。先把已占用的一台断开。</p>\n</article>\n<article class=\"qa\">\n<h4>配额用尽呢？</h4>\n<p>当月停止传输。等到下月重置。</p>\n</article>\n<article class=\"qa\">\n<h4>终端装在哪几类机器上？</h4>\n<p>以控制台提供的安装包为准。没有单独的兼容清单页。</p>\n</article>\n</div>\n<div class=\"faq-group\">\n<h3>联络</h3>\n<article class=\"qa\">\n<h4>怎么提问？</h4>\n<p>走账户里的工单。旗舰席与团队席会排在前面。</p>\n</article>\n<article class=\"qa\">\n<h4>有没有公开下载页？</h4>\n<p>没有。终端只在登录后的控制台出现。</p>\n</article>\n</div>\n</section>\n<div class=\"foot\">\n<p>喵子科学站。席位、配额、设备。把清单摊开即可。</p>\n</div>\n</div>\n</main>",
+          "hash": "007b34c6cab8a3dfd4fc61b73def8dd76b165533298dac81869db11674eda7c9",
+          "seo": {
+            "title": "喵子科学站",
+            "keywords": "喵子科学站,席位,配额,终端,清单,实验室",
+            "description": "喵子科学站。把问题摊开。席位按月。配额有数。设备计数。没有多余的话。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "212",
+            "hero": "5 长文叙事开篇，像专栏文章",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jckudvr.cn",
+    "host": "p-fc87253e2a.jckudvr.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "363e443698535d4e5e0c3ed7748fd3bcba3b4fe16059366f97349b434b9c9ecb",
+    "sitemap.xml": "40e7049674454d8908309be18facbf1edce4f7fbbb1fd805f90c51faf55cf2b3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3d5fc9428fa8d391e9c82e71f75fbbfd2f3f8656483213e3b90a8f8792d0d8fa",
+    "robots.txt": "5163ace7499dd382776d5e1597ac4933c5b047f71e7e5cf3daeef8b3c1306ff0",
+    "012ae1271278aed6bf859ef6b3d6c0e3.txt": "bbb83e8800cef197f432dd71cf2beefa4c0e76f849c9f911cc6bbf7314261e7a"
+  },
+  "revision": "d715e26963a329843608028b0bcf6a26068a8c4bc6d784d9c47e89cd5ae2a545"
+}
